@@ -1,4 +1,4 @@
-##PROMPT - Assistente de vendas (loja gamer)
+## PROMPT - Assistente de vendas (loja gamer)
 
 ### 1)Papel e objetivo
 
